@@ -56,7 +56,7 @@ O servidor estará disponível em: http://localhost:3000
 | Método | Rota           | Descrição                      |
 | ------ | -------------- | ------------------------------ |
 | GET    | `/address`     | Lista todos os endereços       |
-| GET    | `/address/:id  | Lista o endereço pelo ID       |
+| GET    | `/address/:id` | Lista o endereço pelo ID       |
 | POST   | `/address`     | Cria um novo endereço          |
 | PUT    | `/address/:id` | Atualiza um endereço existente |
 | DELETE | `/address/:id` | Remove um endereço             |
