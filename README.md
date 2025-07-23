@@ -18,10 +18,11 @@ git clone https://github.com/AngelimGabriel/nestjs-project.git
 cd nestjs-project
 ```
 
-3. Instalação de dependências
+3. Instalação de dependências e rode o prisma generate:
 
 ```bash
 npm install
+npx prisma generate
 ```
 
 4. Crie um arquivo `.env` na raiz do projeto.
